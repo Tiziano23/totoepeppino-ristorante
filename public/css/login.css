@@ -1,0 +1,8 @@
+.login-group {
+    height: 90vh;
+}
+.logo {
+    border: 5px solid black;
+    border-radius: 50%;
+    width: 35%;
+}

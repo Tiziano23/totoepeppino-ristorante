@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Baskervville&family=Carattere&family=Caudex:ital@1&family=Crimson+Text&display=swap");
+@import url("/lib/fonts/Noir-et-Blank/noir-et-blank.css");
+@import url("/lib/fonts/Analogue/analogue.css");
+
+/*
+font-family: 'Baskervville', serif;
+font-family: 'Carattere', cursive;
+font-family: 'Caudex', serif;
+font-family: 'Crimson Text', serif;
+*/
+
+html,
+body {
+  height: 100%;
+}

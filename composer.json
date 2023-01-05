@@ -1,0 +1,14 @@
+{
+    "name": "tiziano/mstrcloud.ddnsfree.com",
+    "authors": [
+        {
+            "name": "Tiziano Marzocchella",
+            "email": "tiziano23.marzocchella@gmail.com"
+        }
+    ],
+    "require": {
+        "steampixel/simple-php-components": "@dev",
+        "steampixel/simple-php-router": "^0.7.1",
+        "voku/session2db": "^4.0"
+    }
+}

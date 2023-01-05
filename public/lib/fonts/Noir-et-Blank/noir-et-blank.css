@@ -1,0 +1,78 @@
+@font-face {
+    font-family: 'NOIR et BLANC Medium';
+    src: url('NOIRetBLANCMediumBold.eot');
+    src: local('NOIR et BLANC Medium Bold'), local('NOIRetBLANCMediumBold'),
+        url('NOIRetBLANCMediumBold.eot?#iefix') format('embedded-opentype'),
+        url('NOIRetBLANCMediumBold.woff2') format('woff2'),
+        url('NOIRetBLANCMediumBold.woff') format('woff'),
+        url('NOIRetBLANCMediumBold.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NOIR et BLANC';
+    src: url('NOIRetBLANCItalic.eot');
+    src: local('NOIR et BLANC Italic'), local('NOIRetBLANCItalic'),
+        url('NOIRetBLANCItalic.eot?#iefix') format('embedded-opentype'),
+        url('NOIRetBLANCItalic.woff2') format('woff2'),
+        url('NOIRetBLANCItalic.woff') format('woff'),
+        url('NOIRetBLANCItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NOIR et BLANC Med';
+    src: url('NOIRetBLANCMedBoldItalic.eot');
+    src: local('NOIR et BLANC Med Bold Italic'), local('NOIRetBLANCMedBoldItalic'),
+        url('NOIRetBLANCMedBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('NOIRetBLANCMedBoldItalic.woff2') format('woff2'),
+        url('NOIRetBLANCMedBoldItalic.woff') format('woff'),
+        url('NOIRetBLANCMedBoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NOIR et BLANC Med';
+    src: url('NOIRetBLANCMedItalic.eot');
+    src: local('NOIR et BLANC Med Italic'), local('NOIRetBLANCMedItalic'),
+        url('NOIRetBLANCMedItalic.eot?#iefix') format('embedded-opentype'),
+        url('NOIRetBLANCMedItalic.woff2') format('woff2'),
+        url('NOIRetBLANCMedItalic.woff') format('woff'),
+        url('NOIRetBLANCMedItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NOIR et BLANC';
+    src: url('NOIRetBLANC-Regular.eot');
+    src: local('NOIR et BLANC Regular'), local('NOIRetBLANC-Regular'),
+        url('NOIRetBLANC-Regular.eot?#iefix') format('embedded-opentype'),
+        url('NOIRetBLANC-Regular.woff2') format('woff2'),
+        url('NOIRetBLANC-Regular.woff') format('woff'),
+        url('NOIRetBLANC-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NOIR et BLANC';
+    src: url('NOIRetBLANCMedium.eot');
+    src: local('NOIR et BLANC Medium'), local('NOIRetBLANCMedium'),
+        url('NOIRetBLANCMedium.eot?#iefix') format('embedded-opentype'),
+        url('NOIRetBLANCMedium.woff2') format('woff2'),
+        url('NOIRetBLANCMedium.woff') format('woff'),
+        url('NOIRetBLANCMedium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+

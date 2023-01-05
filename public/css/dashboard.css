@@ -1,0 +1,10 @@
+main {
+  min-height: 100%;
+}
+
+nav {
+  position: fixed;
+  top: 1rem;
+  left: 1rem;
+  z-index: 100;
+}
